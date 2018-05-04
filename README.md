@@ -2,7 +2,7 @@
 Smart t-shirt with received based on Arduino and Nrf24L01
 
 The smart t-shirt is personal project that I have developed back in 2013 with the intention of creating smart clothing for :
-- Elderl people
+- Elder people
 - People working in high risk positions
 - Undercover workers
 - and many others...
