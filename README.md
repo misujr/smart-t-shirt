@@ -9,6 +9,19 @@ The smart t-shirt is personal project that I have developed back in 2013 with th
 
 This project was developed by my fully using public available libraries and modifications added to them . 
 
+Main features : flex sensors, pressure sensors, temperature sensor, pulse sensor, 3 axis accelerometer, wireless communication, mobile phone connectivity
+Wireless protocol frequency : 2,4 Ghz
+Data Rate ; max 2Mb/s
+Channels : 6
+Flex sensors : 11 cm long
+Pressure sensors : 4x4 cm but we are now testing 20x20cm ones
+3 Axis accelerometer
+Digital pulse sensor
+Digital temperature sensor
+Battery : 2000mAh li-Pol or 3600mAh li-Pol
+Authonomy : 9 hours with the 2000mAh version
+
+
 The main idea is that your board that acts as a t-shirt will gather the data from all the sensors and then will send it OTA using the NRF24L01 TX/RX moculeds to a receiver board that will show the data on an LCD/Display and also output it on a serial port. 
 
 This code can be modified or adapted to work with BLE, Zigbee and so on...
