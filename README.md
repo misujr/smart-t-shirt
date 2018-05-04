@@ -32,3 +32,9 @@ This code can not be copied, modified or used in any commercial product as it is
 
 This code comes with no guarantee and it is your sole responsibility if you shall wish to use it to check pinouts, pin definitions in both comments of the and libraries and make the proper electrical connections to get it up and running. 
 
+
+
+TO DO : 
+- Add sensors datasheet
+- Add the Tshirt board Code
+- Add the Receiver board code
